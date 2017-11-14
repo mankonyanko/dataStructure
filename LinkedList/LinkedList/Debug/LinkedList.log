@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\psv30\documents\visual studio 2017\projects\linkedlist\linkedlist\main.cpp(7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  doubleLinkedList.cpp
+  코드를 생성하고 있습니다...
+  LinkedList.vcxproj -> C:\Users\psv30\Documents\Visual Studio 2017\Projects\LinkedList\Debug\LinkedList.exe
